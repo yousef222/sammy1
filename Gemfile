@@ -10,5 +10,5 @@ end
 
 group :test do
   gem 'vegas'
-  gem 'sinatra'
+  gem 'sinatra', '>= 4.0.0'
 end
